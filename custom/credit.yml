@@ -1,0 +1,13 @@
+categories:
+- conversations
+conversations:
+- - Who created this?
+  - Kuldeep Singh Sidhu
+- - Can I use this in my project?
+  - Yes you can, the code is available on GitHub and Blog article
+- - Help
+  - You can read the article on the blog (http://kuldeepsinghsidhu.blogspot.com) for clarity
+- - Blog Link
+  - You can read the article on the blog (http://kuldeepsinghsidhu.blogspot.com)
+- - Where is the code?
+  - https://github.com/singhsidhukuldeep
