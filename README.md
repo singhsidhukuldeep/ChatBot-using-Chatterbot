@@ -1,6 +1,7 @@
 # ChatBot using Chatterbot
 
 ### Blog Post: [http://kuldeepsinghsidhu.blogspot.com](http://kuldeepsinghsidhu.blogspot.com)
+### Article: https://kuldeepsinghsidhu.blogspot.com/2018/10/creating-chat-bot-using-chatterbot.html
 
 ## SetUp
 
